@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m Nikhil, a Data Analyst with 2+ years of experience and a strong software engineering background from Compro Technologies. I work with SQL, Python, and BI tools to analyze large-scale data, build dashboards, and support business decisions using hypothesis-driven analysis.
+I’m Nikhil, a Data Analyst at Paisabazaar with 2+ years of experience and a strong software engineering background from Compro Technologies. I work with SQL, Python, and BI tools to analyze large-scale data, build dashboards, and support business decisions using hypothesis-driven analysis.
 
 # 🧠 What I Do
 - 🔍 Analyze large datasets using SQL & Python (EDA, cleaning, validation)
